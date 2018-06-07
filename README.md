@@ -32,6 +32,7 @@
 
 
 # 效果截图演示
+<<<<<<< HEAD
 <img src="https://github.com/Dennishan0701/vue-shop/blob/master/static/showImage/1.png
 " alt="">
 <img src="https://github.com/Dennishan0701/vue-shop/blob/master/static/showImage/2.png
@@ -50,6 +51,9 @@
 " alt="">
 <img src="https://github.com/Dennishan0701/vue-shop/blob/master/static/showImage/9.png
 " alt="">
+=======
+
+>>>>>>> parent of 2321f06... no message
 
 ## 项目安装及运行
 
